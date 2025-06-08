@@ -8,11 +8,7 @@ A lightning-fast search engine application built with React TypeScript and Node.
 
 ## ✨ Features
 
-- **Modern Tech Stack**: React 19, TypeScript, Vite, Node.js/Express
-- **Beautiful UI**: Custom-designed interface with Dachshund branding
-- **Dark/Light Theme**: Automatic system preference detection with manual toggle
 - **Fast Search**: Integration with Search Backend Demo API with advanced validation
-- **Responsive Design**: Works perfectly on desktop and mobile devices
 - **Real-time Search**: Advanced search capabilities with pagination and metadata
 - **Health Monitoring**: Live status indicators for backend and API services
 - **Comprehensive Testing**: Unit tests for components, hooks, and API endpoints
@@ -318,4 +314,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with ❤️ and 🐕 by the David Jensenius team
+Made with ❤️ and 🐕 by David Jensenius
