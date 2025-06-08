@@ -1,10 +1,12 @@
-# 🐕 Dachshund.dev
+# 🐕 Dachshund.dev Search Engine Frontend
 
 [![CI](https://github.com/djensenius/search-frontend/actions/workflows/ci.yml/badge.svg)](https://github.com/djensenius/search-frontend/actions/workflows/ci.yml)
 [![Deploy](https://github.com/djensenius/search-frontend/actions/workflows/main_dachshund.yml/badge.svg)](https://github.com/djensenius/search-frontend/actions/workflows/main_dachshund.yml)
 [![Documentation](https://github.com/djensenius/search-frontend/actions/workflows/docs.yml/badge.svg)](https://github.com/djensenius/search-frontend/actions/workflows/docs.yml)
 
 A lightning-fast search engine application built with React TypeScript and Node.js, featuring an adorable Dachshund mascot.
+
+See [search-backend](https://github.com/djensenius/search-backend) for the rest of the project.
 
 ## ✨ Features
 
