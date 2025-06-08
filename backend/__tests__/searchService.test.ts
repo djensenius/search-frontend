@@ -30,7 +30,7 @@ describe('SearchService', () => {
 
       expect(result).toEqual(mockResponse.data);
       expect(mockedAxios.get).toHaveBeenCalledWith(
-        'http://localhost:3001/search',
+        'http://localhost:3000/search',
         expect.objectContaining({
           params: expect.any(URLSearchParams),
           timeout: 10000
