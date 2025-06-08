@@ -1,0 +1,29 @@
+{
+  "entryPoints": [
+    "backend/src/index.ts",
+    "frontend/src/main.tsx"
+  ],
+  "entryPointStrategy": "expand",
+  "out": "docs",
+  "name": "Dachshund.dev API Documentation",
+  "readme": "README.md",
+  "theme": "default",
+  "tsconfig": "tsconfig.typedoc.json",
+  "exclude": [
+    "**/node_modules/**",
+    "**/*.test.ts",
+    "**/*.test.tsx",
+    "**/dist/**",
+    "**/__tests__/**"
+  ],
+  "excludePrivate": true,
+  "excludeProtected": true,
+  "excludeInternal": true,
+  "hideGenerator": true,
+  "sort": ["source-order"],
+  "categorizeByGroup": true,
+  "navigationLinks": {
+    "GitHub": "https://github.com/djensenius/search-frontend",
+    "Live Demo": "https://dachshund.dev"
+  }
+}
